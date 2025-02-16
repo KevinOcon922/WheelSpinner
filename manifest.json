@@ -1,0 +1,10 @@
+{
+    "name": "Wheel Spinner Extension",
+    "description": "Automatically interact with the wheel on spinthewheel.io to automate wheel elimination instagram videos",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "hello_extensions.png"
+    }
+  }
